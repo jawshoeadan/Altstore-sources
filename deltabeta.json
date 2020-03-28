@@ -6,13 +6,13 @@
   },
   "news": [
     {
-      "title": "Delta Gaining DS Support",
-      "identifier": "delta-ds-support",
-      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
+      "title": "Delta Now Has DS Support",
+      "identifier": "delta-ds-released",
+      "caption": "Available this Saturday for patrons, NOW for everyone else.",
       "tintColor": "8A28F7",
       "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
-      "date": "2019-09-25",
-      "notify": false
+      "date": "2020-3-28",
+      "notify": true
     },
     {
       "title": "Delta Now Available",
