@@ -1,7 +1,6 @@
 {
-  "name": "AltStore",
-  "identifier": "com.rileytestut.AltStore",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "name": "AltStoreBetas",
+  "identifier": "com.jawshoeadan.AltStore",
   "userInfo": {
     "patreonAccessToken": "BSLUtJEvetvJNgOsqz0v98-FmBO5JYDfuO90o-reGB8"
   },
