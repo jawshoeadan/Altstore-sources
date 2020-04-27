@@ -8,7 +8,7 @@
     {
       "name": "Delta BETA",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
-      "developerName": "Riley Testut",
+      "developerName": "Joshua Daneshrad",
       "subtitle": "Classic games in your pocket.",
       "version": "1.2b2",
       "versionDate": "2020-04-27T14:30:00-07:00",
@@ -36,7 +36,7 @@
       "name": "Clip BETA",
       "bundleIdentifier": "com.rileytestut.Clip.Beta",
       "subtitle": "Manage your clipboard history with ease.",
-      "developerName": "Riley Testut",
+      "developerName": "Joshua Daneshrad",
       "version": "1.0b",
       "versionDate": "2019-01-24T18:20:00-08:00",
       "versionDescription": "• Disables notification vibration when sound is disabled for notifications.\n\nAssuming all goes well, this should be the final beta before the public launch! Please report any last minute bugs you find to support@altstore.io.",
@@ -59,7 +59,7 @@
     {
       "name": "Delta Lite BETA",
       "bundleIdentifier": "com.rileytestut.Delta.Lite.Beta",
-      "developerName": "Riley Testut",
+      "developerName": "Joshua Daneshrad",
       "subtitle": "The 80s (and 90s) in your pocket.",
       "version": "1.0b",
       "versionDate": "2019-09-25",
@@ -83,7 +83,7 @@
   ],
   "news": [
     {
-      "title": "Delta Beta Now Available for Reignyard gang",
+      "title": "Delta Beta Now Available for Reignyard Gang",
       "identifier": "delta-ds-beta",
       "caption": "Play DS games for free! (Sorry Riley) niiiiice 👊",
       "tintColor": "8A28F7",
