@@ -1,7 +1,7 @@
 {
   "name": "Jawshoeadan Betas",
   "identifier": "com.jawshoeadan.AltStore",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/jawshoeadan/Altstore-sources/master/deltabeta.json",
   "apps": [
    
     
