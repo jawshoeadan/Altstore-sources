@@ -1,0 +1,26 @@
+{
+  "name": "Tether",
+  "identifier": "com.jawshoeadan.Tether",
+  "apps": [
+    
+    {
+      "name": "Tether",
+      "bundleIdentifier": "com.ksams.Tethering",
+      "developerName": "ksams",
+      "subtitle": "Use your iPhone as a personal hotspot without a jailbreak",
+      "version": "1.0",
+      "versionDate": "2020-04-27",
+      "versionDescription": "Initial AltStore release",
+      "downloadURL": "https://github.com/jawshoeadan/Altstore-sources/releases/download/1.0/tethernojailbreakrepackage.ipa",
+      "localizedDescription": "Tether iPhone with SOCK5 proxy",
+      "iconURL": "https://github.com/jawshoeadan/Altstore-sources/raw/master/AppIcon60x60%402x.png",
+      "tintColor": "2e9cc8",
+      "size": 8200000,
+      "permissions": [
+
+      ],
+      
+    }
+  ],
+  
+}
