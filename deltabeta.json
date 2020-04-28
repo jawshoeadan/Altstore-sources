@@ -84,7 +84,7 @@
       "date": "2020-04-28",
       "identifier": "delta-ds-bios",
       "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
-      "notify": false,
+      "notify": true,
       "tintColor": "8A28F7",
       "title": "melonDS BIOS Files",
       "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
