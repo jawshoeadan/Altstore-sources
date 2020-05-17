@@ -102,6 +102,27 @@
       "version": "1.0b",
       "versionDate": "2019-09-25",
       "versionDescription": "Adds support for GBC games in addition to NES."
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Joshua Daneshrad",
+      "downloadURL": "https://github.com/jawshoeadan/Altstore-sources/releases/download/1.0/cercube_5.1.18.ipa,
+      "iconURL": "https://apt.alfhaily.me/cdn/assets/cercube-icon.png",
+      "localizedDescription": "Cercube 5 is the ultimate tweak for YouTube app adding tons of features including downloading videos, downloading as audio, disabling ads, background playback, change tab bar layout, and selecting default video quality.\n\nThe tweak works on YouTube and it offers all options available in the original app. Login to your account, view your playlists, subscriptions, trending videos, inbox, and more. \n\nCercube features:\n    - Save videos up to 4K resolution.\n- Save videos as audio only.\n- Set default download quality.\n- Manage and share downloads to any app.\n- Import downloads to Music or Videos.\n- Play YouTube videos using PiP.\n- Set default player quality on WiFi.\n- Set default player quality on 3G/4G.\n- Block all advertisements.\n- Enable background playback.\n- Play in high quality on Mobile Data.",
+      "name": "Cercube for YouTube 5",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+      ],
+      "size": 95583027,
+      "subtitle": "Youtube, but better",
+      "tintColor": "DB3020",
+      "version": "5.1.18",
+      "versionDate": "2020-05-17T14:00:00-07:00",
+      "versionDescription": "Initial AltStore Release: 15.17 (T5.1.18)"
     }
   ],
   "identifier": "com.jawshoeadan.Betas",
