@@ -1,22 +1,23 @@
 {
   "apps": [
     {
-      "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Joshua Daneshrad",
       "downloadURL": "https://github.com/jawshoeadan/Altstore-sources/releases/download/1.0/cercube_5.1.18.ipa",
       "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/2f/8e/e52f8e75-7c25-74b0-9311-feb9c3f696a8/source/512x512bb.jpg",
-      "localizedDescription": "Adds new features to YouTube:\n\nDownload and save videos up to 4k resolution\nSave videos as audio only\nView, manage and share all your downloads in Cercube's download manager\nBlock ads\nShare downloaded videos with other devices via AirDrop\nBackground playback for streamed and downloaded videos\nImport downloads to Music or Videos\nPlay YouTube videos using Picture-in-Picture mode\nDownloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\nChoose the default tab to open when launching YouTube\nStream videos in HD on cellular network\nAuto-replay videos\nHide floating upload button\nHide the Trending tab\nRewind or forward videos\nCercube options are configurable from within YouTube settings\nPlay in high quality on Mobile Data\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "localizedDescription": "Adds new features to YouTube:\n\nDownload and save videos up to 4k resolution\nSave videos as audio only\nView, manage and share all your downloads in Cercube's download manager\nBlock ads\nShare downloaded videos with other devices via AirDrop\nBackground playback for streamed and downloaded videos\nImport downloads to Music or Videos\nPlay YouTube videos using Picture-in-Picture mode\nDownloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\nChoose the default tab to open when launching YouTube\nStream videos in HD on cellular network\nAuto-replay videos\nHide floating upload button\nHide the Trending tab\nRewind or forward videos\nCercube options are configurable from within YouTube settings\nPlay in high quality on Mobile Data",
       "name": "Cercube for Youtube",
-      "screenshotURLs": [
-        ""
+      
       ],
-      "size": 2184796,
-      "subtitle": "Youtube but better",
+      "screenshotURLs": [
+        "",
+      ],
+      "size": 18607156,
+      "subtitle": "Youtube, but better",
       "tintColor": "ED0104",
       "version": "5.1.18",
-      "versionDate": "2020-05-17T14:00:00-07:00",
-      "versionDescription": "Initial AltStore Release\n15.17 (T5.1.18)"
+      "versionDate": "2020-05-17T14:30:00-07:00",
+      "versionDescription": "Initial Altstore release"
     },
     {
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
