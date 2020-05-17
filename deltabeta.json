@@ -27,12 +27,23 @@
       "versionDescription": "Delta, meet melonDS! melonDS is a modern Nintendo DS emulator that is more accurate and reliable than DeSmuME. melonDS is actively being worked on and supports many features DeSmuME does not, which is why Delta now includes a melonDS emulator core 🎉 melonDS will soon become the default, so please report any issues you find! \n\nNEW FEATURES\n• New core based on melonDS for DS emulation (will soon become the default)\n• DS settings screen to switch cores and import melonDS BIOS files\n• Fast forward DS games\n• Action Replay cheat codes for DS games (melonDS core)\n• Boot directly to Nintendo DS home screen and change system settings (melonDS core)\n• Access Delta files directory in Files > On My iPhone > Delta\n• Support for 8-character NES Game Genie cheat codes\n• Export save files for games from context menu\n\nBUG FIXES\n• Fixes graphical issues when playing DS games\n• Fixes incorrect formatting when entering cheat codes\n• Fixes incorrect game name text color after deleting a game or switching cores\n• Fixes save files being overwritten when previewing games\n\nSwitching to melonDS has been a _big_ transition, so please report any and all bugs you find using the melonDS core. Enjoy!"
     },
     {
+      "name": "AltStore BETA",
       "bundleIdentifier": "com.rileytestut.AltStore.Beta",
       "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "version": "1.3.3b1",
+      "versionDate": "2020-05-08T12:00:00-07:00",
+      "versionDescription": "NEW\n• Fixes \"App ID already registered\" error when updating DolphiniOS\n• Verifies app's bundle ID matches the source's when downloading from a source.\n\nPREVIOUS UPDATES\n• Adds support for installing apps using private entitlements via Psychic Paper (https://siguza.github.io/psychicpaper/)\n• Displays \"Grant Permission\" alert that lists all private entitlements when installing an app that uses them.\n\nNOTE: No permission alert will appear for apps without private entitlements.",
       "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/altstore/1_3_3_b1.ipa",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
-      "name": "AltStore BETA",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 2531143,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
       "permissions": [
         {
           "type": "background-fetch",
@@ -42,18 +53,7 @@
           "type": "background-audio",
           "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
         }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2531143,
-      "subtitle": "An alternative App Store for iOS.",
-      "tintColor": "018084",
-      "version": "1.3.3b1",
-      "versionDate": "2020-05-08T12:00:00-07:00",
-      "versionDescription": "NEW\n• Fixes \"App ID already registered\" error when updating DolphiniOS\n• Verifies app's bundle ID matches the source's when downloading from a source.\n\nPREVIOUS UPDATES\n• Adds support for installing apps using private entitlements via Psychic Paper (https://siguza.github.io/psychicpaper/)\n• Displays \"Grant Permission\" alert that lists all private entitlements when installing an app that uses them.\n\nNOTE: No permission alert will appear for apps without private entitlements."
+      ]
     },
     {
       "bundleIdentifier": "com.rileytestut.Clip.Beta",
@@ -102,43 +102,11 @@
       "version": "1.0b",
       "versionDate": "2019-09-25",
       "versionDescription": "Adds support for GBC games in addition to NES."
-    },
-    {
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Joshua Daneshrad",
-      "downloadURL": "https://github.com/jawshoeadan/Altstore-sources/releases/download/1.0/cercube_5.1.18.ipa",
-      "iconURL": "https://apt.alfhaily.me/cdn/assets/cercube-icon.png",
-      "localizedDescription": "Cercube 5 is the ultimate tweak for YouTube app adding tons of features including downloading videos, downloading as audio, disabling ads, background playback, change tab bar layout, and selecting default video quality.\n\nThe tweak works on YouTube and it offers all options available in the original app. Login to your account, view your playlists, subscriptions, trending videos, inbox, and more. \n\nCercube features:\n    - Save videos up to 4K resolution.\n- Save videos as audio only.\n- Set default download quality.\n- Manage and share downloads to any app.\n- Import downloads to Music or Videos.\n- Play YouTube videos using PiP.\n- Set default player quality on WiFi.\n- Set default player quality on 3G/4G.\n- Block all advertisements.\n- Enable background playback.\n- Play in high quality on Mobile Data.",
-      "name": "Cercube for YouTube 5",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
-      ],
-      "size": 95583027,
-      "subtitle": "Youtube but better",
-      "tintColor": "DB3020",
-      "version": "5.1.18",
-      "versionDate": "2020-05-16T14:00:00-07:00",
-      "versionDescription": "Initial AltStore release. 15.17(T5.1.18)"
     }
   ],
   "identifier": "com.jawshoeadan.Betas",
   "name": "Jawshoeadan Betas",
   "news": [
-    {
-      "appID": "com.google.ios.youtube",
-      "caption": "Youtube but without ads and downloads enabled",
-      "date": "2020-05-17",
-      "identifier": "cercube-now-availible",
-      "imageURL": "https://external-preview.redd.it/dzIIxkbfYwxI2sCbD3_NvfvA_NM5b34aEIbNi1vM2Q4.jpg?auto=webp&s=0a8193319df7a89dc2db279a7e7ec4b48abbeaf2",
-      "notify": false,
-      "tintColor": "DB3020",
-      "title": "Cercube is now available for Reignyard Gang",
-      "url": ""
-    },
     {
       "appID": "",
       "caption": "Click here to download the melonDS BIOS files which are required for the newest Delta Beta",
