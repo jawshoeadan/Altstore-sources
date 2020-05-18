@@ -1,23 +1,6 @@
 {
   "apps": [
-    {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Joshua Daneshrad",
-      "downloadURL": "https://github.com/jawshoeadan/Altstore-sources/releases/download/1.0/cercube_5.1.18.ipa",
-      "iconURL": "https://i.pinimg.com/736x/f3/a5/63/f3a56378d46b3ee8f1145b4a6d8d3f11.jpg",
-      "localizedDescription": "Cercube",
-      "name": "Cercube for Youtube",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "Youtube but better",
-      "tintColor": "ED1040",
-      "version": "5.1.18",
-      "versionDate": "2020-05-10T14:00:00-07:00",
-      "versionDescription": "Cercube\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
-    },
+    
     {
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
       "developerName": "Joshua Daneshrad",
