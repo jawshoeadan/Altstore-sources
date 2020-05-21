@@ -10,9 +10,9 @@
 			"size": 18607156,
 			"subtitle": "Youtube, but better",
 			"tintColor": "ED0104",
-			"version": "5.1.18",
+			"version": "15.17",
 			"versionDate": "2020-05-17T14:30:00-07:00",
-			"versionDescription": "Initial Altstore release"
+			"versionDescription": "Initial Altstore release, v15.17(5.1.18)"
 		},
 		{
 			"bundleIdentifier": "com.rileytestut.Delta.Beta",
