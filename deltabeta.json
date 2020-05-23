@@ -39,33 +39,34 @@
 			"versionDescription": "Delta, meet melonDS! melonDS is a modern Nintendo DS emulator that is more accurate and reliable than DeSmuME. melonDS is actively being worked on and supports many features DeSmuME does not, which is why Delta now includes a melonDS emulator core 🎉 melonDS will soon become the default, so please report any issues you find! \n\nNEW FEATURES\n• New core based on melonDS for DS emulation (will soon become the default)\n• DS settings screen to switch cores and import melonDS BIOS files\n• Fast forward DS games\n• Action Replay cheat codes for DS games (melonDS core)\n• Boot directly to Nintendo DS home screen and change system settings (melonDS core)\n• Access Delta files directory in Files > On My iPhone > Delta\n• Support for 8-character NES Game Genie cheat codes\n• Export save files for games from context menu\n\nBUG FIXES\n• Fixes graphical issues when playing DS games\n• Fixes incorrect formatting when entering cheat codes\n• Fixes incorrect game name text color after deleting a game or switching cores\n• Fixes save files being overwritten when previewing games\n\nSwitching to melonDS has been a _big_ transition, so please report any and all bugs you find using the melonDS core. Enjoy!"
 		},
 		{
-			"bundleIdentifier": "com.rileytestut.AltStore.Beta",
-			"developerName": "Riley Testut",
-			"downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/altstore/1_3_3_b1.ipa",
-			"iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-			"localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
-			"name": "AltStore BETA",
-			"permissions": [{
-					"type": "background-fetch",
-					"usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-				},
-				{
-					"type": "background-audio",
-					"usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-				}
-			],
-			"screenshotURLs": [
-				"https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-				"https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-				"https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-			],
-			"size": 2531143,
-			"subtitle": "An alternative App Store for iOS.",
-			"tintColor": "018084",
-			"version": "1.3.3b1",
-			"versionDate": "2020-05-08T12:00:00-07:00",
-			"versionDescription": "NEW\n• Fixes \"App ID already registered\" error when updating DolphiniOS\n• Verifies app's bundle ID matches the source's when downloading from a source.\n\nPREVIOUS UPDATES\n• Adds support for installing apps using private entitlements via Psychic Paper (https://siguza.github.io/psychicpaper/)\n• Displays \"Grant Permission\" alert that lists all private entitlements when installing an app that uses them.\n\nNOTE: No permission alert will appear for apps without private entitlements."
-		},
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "version": "1.3.4b3",
+      "versionDate": "2020-05-20T10:00:00-07:00",
+      "versionDescription": "NEW\n• Adds \"Back Up\" option when long pressing app to manually back up app data, which can then be restored later.\n• GM version of 1.3.4\n\nPREVIOUS UPDATE:\n\n**Requires AltServer 1.3.1 beta. Download from https://altstore.io/altserver/beta/**\n\nIMPORTANT\niOS 13.5 (due for release soon) changes how active apps are counted. Previously, app extensions counted towards the 3 active app limit, and inactive apps could remain installed without counting. Now, app extensions are excluded, but inactive apps must be uninstalled to not count.\n\nOn devices running iOS 13.5 or later, apps will now be backed up & uninstalled when deactivated. When you later activate an inactive app, AltStore will reinstall the app and restore its data so you can continue using it as if it was never uninstalled.\n\nNOTE: This does not affect devices running iOS 13.4.1 or earlier.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/altstore/1_3_4_b3.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 2665126,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
 		{
 			"bundleIdentifier": "com.rileytestut.Clip.Beta",
 			"developerName": "Joshua Daneshrad",
