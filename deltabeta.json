@@ -133,7 +133,7 @@
 			"notify": true,
 			"tintColor": "000000",
 			"title": "Download unc0ver here",
-			"url": "unc0ver.dev"
+			"url": "https://unc0ver.dev/"
 		},
 		{
 			"appID": "com.rileytestut.Delta.Beta",
