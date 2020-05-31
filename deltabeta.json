@@ -125,17 +125,6 @@
 			"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 		},
 		{
-			"appID": "",
-			"caption": "Click here to download the latest version of unc0ver. (5.0.1)",
-			"date": "2020-05-31",
-			"identifier": "download-new-unc0ver",
-			"imageURL": "https://cdn.wccftech.com/wp-content/uploads/2020/02/Uncover-jailbreak-iOS-13.3.jpg",
-			"notify": true,
-			"tintColor": "000000",
-			"title": "Download unc0ver here",
-			"url": "altstore://install?url=https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.0.1/unc0ver-v5.0.1.ipa"
-		},
-		{
 			"appID": "com.rileytestut.Delta.Beta",
 			"caption": "Play DS games for free! (Sorry Riley) \nniiice 👊",
 			"date": "2020-04-29",
