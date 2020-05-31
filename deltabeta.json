@@ -134,7 +134,7 @@
 			"notify": true,
 			"tintColor": "000000",
 			"title": "Download unc0ver here",
-			"url": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.0.1/unc0ver-v5.0.1.ipa"
+			"url": "altstore://install?url=https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.0.1/unc0ver-v5.0.1.ipa"
 		}
 		{
 			"appID": "com.rileytestut.Delta.Beta",
