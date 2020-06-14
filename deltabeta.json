@@ -81,6 +81,24 @@
 			"version": "1.0b",
 			"versionDate": "2019-09-25",
 			"versionDescription": "Adds support for GBC games in addition to NES."
+		},
+		 
+		 {
+			"bundleIdentifier": "com.jawshoeadan.GradeCalculatorSwiftUI",
+			"developerName": "Joshua Daneshrad",
+			"downloadURL": "https://github.com/jawshoeadan/Altstore-sources/releases/download/1.0/GradeCalculatorSwiftUIadhoctest1.ipa",
+			"iconURL": "https://github.com/jawshoeadan/Altstore-sources/raw/master/AppIcon76x76%402x~ipad.png",
+			"localizedDescription": "Finally, I made added my first app to AltStore. \nThis app is a grade calculator app that you probably should never use because there are better ones out there. The only reason I added this app is to show off that I made it. Also it took my over an hour just to figure out how to compile the .ipa file so that it would work with AltStore. /n/nBut I did it and now you can experience my first ever app I made.",
+			"name": "Josh's Grade Calculator",
+			"screenshotURLs": [
+				"https://github.com/jawshoeadan/Altstore-sources/raw/master/IMG_28555431289F-1.jpeg"
+			],
+			"size": 789000,
+			"subtitle": "A grade calculator that I made",
+			"tintColor": "18C983",
+			"version": "1.0",
+			"versionDate": "2020-06-10",
+			"versionDescription": "Initial AltStore Release!! 🎉🎉"
 		}
 	],
 	"identifier": "com.jawshoeadan.Betas",
@@ -116,6 +134,15 @@
 			"notify": true,
 			"tintColor": "8A28F7",
 			"title": "Delta Beta Now Available for Reignyard Gang"
+		},
+		 {
+			"appID": "com.jawshoeadan.GradeCalculatorSwiftUI",
+			"caption": "You can finally use Josh's Grade Calculator!!",
+			"date": "2020-06-14",
+			"identifier": "grade-calc-release",
+			"notify": true,
+			"tintColor": "18C983",
+			"title": "Josh's Grade Calculator released on AltStore"
 		}
 	],
 	"sourceURL": "https://raw.githubusercontent.com/jawshoeadan/Altstore-sources/master/deltabeta.json",
