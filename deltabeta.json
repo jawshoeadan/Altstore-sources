@@ -39,27 +39,31 @@
 			"versionDescription": "Delta, meet melonDS! melonDS is a modern Nintendo DS emulator that is more accurate and reliable than DeSmuME. melonDS is actively being worked on and supports many features DeSmuME does not, which is why Delta now includes a melonDS emulator core 🎉 melonDS will soon become the default, so please report any issues you find! \n\nNEW FEATURES\n• New core based on melonDS for DS emulation (will soon become the default)\n• DS settings screen to switch cores and import melonDS BIOS files\n• Fast forward DS games\n• Action Replay cheat codes for DS games (melonDS core)\n• Boot directly to Nintendo DS home screen and change system settings (melonDS core)\n• Access Delta files directory in Files > On My iPhone > Delta\n• Support for 8-character NES Game Genie cheat codes\n• Export save files for games from context menu\n\nBUG FIXES\n• Fixes graphical issues when playing DS games\n• Fixes incorrect formatting when entering cheat codes\n• Fixes incorrect game name text color after deleting a game or switching cores\n• Fixes save files being overwritten when previewing games\n\nSwitching to melonDS has been a _big_ transition, so please report any and all bugs you find using the melonDS core. Enjoy!"
 		},
                 {
-			"bundleIdentifier": "com.rileytestut.Clip.Beta",
-			"developerName": "Joshua Daneshrad",
-			"downloadURL": "https://f000.backblazeb2.com/file/altstore/clip-beta.ipa",
-			"iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
-			"localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-			"name": "Clip BETA",
-			"permissions": [{
-				"type": "background-audio",
-				"usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
-			}],
-			"screenshotURLs": [
-				"https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-				"https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
-			],
-			"size": 462771,
-			"subtitle": "Manage your clipboard history with ease.",
-			"tintColor": "EC008C",
-			"version": "1.0b",
-			"versionDate": "2019-01-24T18:20:00-08:00",
-			"versionDescription": "• Disables notification vibration when sound is disabled for notifications.\n\nAssuming all goes well, this should be the final beta before the public launch! Please report any last minute bugs you find to support@altstore.io."
-		},
+      "name": "Clip BETA",
+      "bundleIdentifier": "com.rileytestut.Clip.Beta",
+      "subtitle": "Manage your clipboard history with ease.",
+      "developerName": "Riley Testut",
+      "version": "1.1b1",
+      "versionDate": "2020-06-17T12:30:00-07:00",
+      "versionDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.\n\nTo enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_1_b1.ipa",
+      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "tintColor": "EC008C",
+      "size": 462771,
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
+        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png",
+        "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
+        "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
+      ]
+    },
 		{
 			"bundleIdentifier": "com.rileytestut.Delta.Lite.Beta",
 			"developerName": "Joshua Daneshrad",
